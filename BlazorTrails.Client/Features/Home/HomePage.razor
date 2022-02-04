@@ -8,6 +8,7 @@
 else
 {
     <TrailDetails Trail="_selectedTrail" />
+    <TrailSearch />
     <div class="grid">
         @foreach (var trail in _trails)
         {
@@ -15,6 +16,7 @@ else
         }
     </div>
 }
+
 @code {
     private IEnumerable<Trail>? _trails;
     private Trail? _selectedTrail;
