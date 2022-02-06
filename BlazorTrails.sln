@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTrails.Client", "BlazorTrails.Client\BlazorTrails.Client.csproj", "{107837BD-962E-4097-91CA-A3927FE479F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTrails.Client", "BlazorTrails.Client\BlazorTrails.Client.csproj", "{2ED68669-B520-4064-9765-4543BD16BAF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTrails.Api", "BlazorTrails.Api\BlazorTrails.Api.csproj", "{F7209873-BD31-4766-B259-0D6381AF8F14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{107837BD-962E-4097-91CA-A3927FE479F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{107837BD-962E-4097-91CA-A3927FE479F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{107837BD-962E-4097-91CA-A3927FE479F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{107837BD-962E-4097-91CA-A3927FE479F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED68669-B520-4064-9765-4543BD16BAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED68669-B520-4064-9765-4543BD16BAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED68669-B520-4064-9765-4543BD16BAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED68669-B520-4064-9765-4543BD16BAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7209873-BD31-4766-B259-0D6381AF8F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7209873-BD31-4766-B259-0D6381AF8F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7209873-BD31-4766-B259-0D6381AF8F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7209873-BD31-4766-B259-0D6381AF8F14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
