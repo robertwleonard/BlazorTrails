@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BlazorTrails.Client\BlazorTrails.Client.csproj" />
+    <ProjectReference Include="..\BlazorTrails.Shared\BlazorTrails.Shared.csproj" />
   </ItemGroup>
 
 </Project>
