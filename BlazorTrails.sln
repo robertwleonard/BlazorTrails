@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTrails.Client", "Blaz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTrails.Api", "BlazorTrails.Api\BlazorTrails.Api.csproj", "{F7209873-BD31-4766-B259-0D6381AF8F14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTrails.Shared", "BlazorTrails.Shared\BlazorTrails.Shared.csproj", "{50F45AF2-EF01-4306-8CCF-E7FB4A700238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTrails.Shared", "BlazorTrails.Shared\BlazorTrails.Shared.csproj", "{50F45AF2-EF01-4306-8CCF-E7FB4A700238}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
